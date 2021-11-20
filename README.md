@@ -26,13 +26,13 @@ O curso abordará aspectos práticos por meio do uso de cadernos Jupyter e exerc
 
 # Plano de curso
 
-* Módulo 1. O pipeline de modelagem preditiva
-* Módulo 2. Selecionando o melhor modelo
-* Módulo 3. Ajuste de hiperparâmetros
-* Módulo 4. Modelos Lineares
-* Módulo 5. Modelos de árvore de decisão
-* Módulo 6. Conjunto de modelos
-* Módulo 7. Avaliando o desempenho do modelo
+* [`Módulo 1. O pipeline de modelagem preditiva`](https://github.com/RogerioLS/Scikit-Learn/tree/main/Module1_The_Predictive_Modeling_Pipeline)
+* [`Módulo 2. Selecionando o melhor modelo`](https://github.com/RogerioLS/Scikit-Learn/tree/main/Module2_Selecting_the_best_model)
+* [`Módulo 3. Ajuste de hiperparâmetros`](https://github.com/RogerioLS/Scikit-Learn/tree/main/Module3_hyperparameter_tuning)
+* [`Módulo 4. Modelos Lineares`](https://github.com/RogerioLS/Scikit-Learn/tree/main/Module4_linear_model)
+* [`Módulo 5. Modelos de árvore de decisão`](https://github.com/RogerioLS/Scikit-Learn/tree/main/Module5_decision_tree_models)
+* [`Módulo 6. Conjunto de modelos`](https://github.com/RogerioLS/Scikit-Learn/tree/main/Module6_ensemble_of_models)
+* [`Módulo 7. Avaliando o desempenho do modelo`](https://github.com/RogerioLS/Scikit-Learn/tree/main/Module7_evaluanting_model_performance)
 
 ---
 
