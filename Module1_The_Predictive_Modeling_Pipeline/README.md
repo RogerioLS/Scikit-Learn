@@ -6,6 +6,7 @@ Este módulo dará um exemplo de um pipeline de modelagem preditiva típico dese
 
 As habilidades técnicas necessárias para continuar este módulo são:
 
+
 * conhecimento básico de programação Python
 * alguma experiência anterior com as bibliotecas NumPy, pandas e Matplotlib é recomendada, mas não obrigatória
 
