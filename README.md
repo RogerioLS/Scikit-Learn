@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="imagens/scikit-learn.png">
+<img src="imagens/scikit_learn.png">
 </p>
 
 
