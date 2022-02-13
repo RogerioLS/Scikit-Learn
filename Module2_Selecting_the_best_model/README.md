@@ -8,7 +8,7 @@ A primeira apresentação definirá esses problemas e caracterizará como e por 
 
 Em seguida, apresentaremos uma metodologia para quantificar esses problemas, contrastando o erro do trem com o erro de teste para várias escolhas da família do modelo, parâmetros do modelo. Mais importante, enfatizaremos o impacto do tamanho do conjunto de treinamento sobre essa compensação .
 
-Finalmente, relacionaremos o overfitting e o underfitting aos conceitos de variância estatística e viés.
+Finalmente, relacionaremos o overfitting e o underfitting aos conceitos de variância estatística e viés. 
 
 # Antes de começar
 
