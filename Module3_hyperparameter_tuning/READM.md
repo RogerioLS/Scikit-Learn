@@ -1,4 +1,4 @@
-# O que você vai aprender
+# O que você vai aprender 
 
 Nos módulos anteriores, mostramos como criar, treinar, prever e até mesmo avaliar um modelo preditivo. No entanto, não alteramos os parâmetros dos modelos que podem ser dados ao criar uma instância. Por exemplo, para k-vizinhos mais próximos, inicialmente usamos este parâmetro padrão: `n_neighbors=5antes` de tentar outros parâmetros do modelo.
 
