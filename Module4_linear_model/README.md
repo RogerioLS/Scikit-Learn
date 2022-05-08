@@ -7,6 +7,7 @@ Finalmente, mostraremos como modelos lineares podem ser usados com dados que apr
 
 As habilidades técnicas necessárias para continuar este módulo são:
 
+
 * habilidades adquiridas durante o módulo “The Predictive Modeling Pipeline” com o uso básico de scikit-learn;
 
 * habilidades adquiridas durante o módulo “Selecting The Best Model”, principalmente em torno do conceito de underfit / overfit e o uso de validação cruzada no scikit-learn.
