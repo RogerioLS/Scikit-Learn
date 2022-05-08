@@ -1,4 +1,4 @@
-# O que você vai aprender
+# O que você vai aprender 
 
 Neste módulo, entraremos em detalhes sobre os modelos que utilizam parametrização linear. Veremos como usar essa família de modelos para problemas de classificação e regressão. Além disso, vamos explicar como combater o sobreajuste usando a regularização.
 Finalmente, mostraremos como modelos lineares podem ser usados com dados que apresentam não linearidade.
