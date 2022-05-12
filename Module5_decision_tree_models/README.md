@@ -1,6 +1,6 @@
 # O que você vai aprender
 
-Este módulo apresentará em detalhes modelos de árvore de decisão. Este modelo será explicado em problemas de classificação e regressão. Além disso, mostraremos quais hiperparâmetros da árvore de decisão têm importância no seu desempenho, permitindo encontrar o melhor trade-off entre under e over fit.
+Este módulo apresentará em detalhes modelos de árvore de decisão. Este modelo será explicado em problemas de classificação e regressão. Além disso, mostraremos quais hiperparâmetros da árvore de decisão têm importância no seu desempenho, permitindo encontrar o melhor trade-off entre under e over fit. 
 
 # Antes de começar
 
