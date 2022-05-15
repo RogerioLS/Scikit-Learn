@@ -1,6 +1,6 @@
 # O que você vai aprender
 
-Este módulo entrará em detalhes sobre algoritmos que combinam vários modelos, também chamados de conjunto de modelos. Apresentaremos duas famílias dessa técnica: (i) baseada em bootstrapping e (ii) baseada em boosting. Apresentaremos ensacamento e floresta aleatória que pertencem à estratégia anterior e AdaBoost e árvore de decisão de aumento de gradiente que pertencem à estratégia posterior. Por fim, entraremos em detalhes sobre os hiperparâmetros que permitem ajustar esses modelos e compará-los entre modelos.
+Este módulo entrará em detalhes sobre algoritmos que combinam vários modelos, também chamados de conjunto de modelos. Apresentaremos duas famílias dessa técnica: (i) baseada em bootstrapping e (ii) baseada em boosting. Apresentaremos ensacamento e floresta aleatória que pertencem à estratégia anterior e AdaBoost e árvore de decisão de aumento de gradiente que pertencem à estratégia posterior. Por fim, entraremos em detalhes sobre os hiperparâmetros que permitem ajustar esses modelos e compará-los entre modelos. 
 
 # Antes de começar
 
