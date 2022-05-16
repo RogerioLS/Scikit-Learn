@@ -1,6 +1,6 @@
 # O que você vai aprender
 
-No módulo anterior, apresentamos a estrutura geral de validação cruzada e a usamos para avaliar o desempenho dos modelos. No entanto, é importante ter em mente que alguns elementos na validação cruzada precisam ser decididos dependendo da natureza do problema: (i) a estratégia de validação cruzada e (ii) as métricas de avaliação. Além disso, é sempre bom comparar o desempenho dos modelos com algum modelo de linha de base.
+No módulo anterior, apresentamos a estrutura geral de validação cruzada e a usamos para avaliar o desempenho dos modelos. No entanto, é importante ter em mente que alguns elementos na validação cruzada precisam ser decididos dependendo da natureza do problema: (i) a estratégia de validação cruzada e (ii) as métricas de avaliação. Além disso, é sempre bom comparar o desempenho dos modelos com algum modelo de linha de base. 
 
 Neste módulo, apresentamos os dois aspectos e fornecemos insights sobre quando usar uma estratégia de validação cruzada específica e uma métrica. Além disso, também daremos alguns insights sobre como comparar um modelo com alguma linha de base.
 
