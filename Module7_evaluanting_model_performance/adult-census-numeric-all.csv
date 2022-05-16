@@ -1,4 +1,4 @@
-age,education-num,capital-gain,capital-loss,hours-per-week,class
+age ,education-num,capital-gain,capital-loss,hours-per-week,class
 25,7,0,0,40, <=50K
 38,9,0,0,50, <=50K
 28,12,0,0,40, >50K
