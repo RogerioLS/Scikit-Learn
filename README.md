@@ -5,6 +5,18 @@
 
 ---
 
+<div align = center>
+
+![Static Badge](https://img.shields.io/badge/scikit-learn-blue)
+![License](https://img.shields.io/github/license/RogerioLS/Scikit-Learn?color=dark-green)
+![Code size in bytes](https://img.shields.io/github/languages/code-size/RogerioLS/Scikit-Learn?color=dark-green)
+![Top language](https://img.shields.io/github/languages/top/RogerioLS/Scikit-Learn?color=dark-green)
+![Last commit](https://img.shields.io/github/last-commit/RogerioLS/Scikit-Learn?color=dark-green)
+![Repo size](https://img.shields.io/github/repo-size/RogerioLS/Scikit-Learn)
+![Languages](https://img.shields.io/github/languages/count/RogerioLS/Scikit-Learn?color=red)
+
+</div>
+
 # Descrição
 
 A modelagem preditiva agrega valor a uma grande variedade de dados, em inteligência de negócios, saúde, processos industriais e descobertas científicas. É um pilar da ciência de dados moderna. Nesse campo, o scikit-learn é uma ferramenta central: é facilmente acessível, embora poderoso, e se encaixa naturalmente no amplo ecossistema de ferramentas de ciência de dados baseadas na linguagem de programação Python.
